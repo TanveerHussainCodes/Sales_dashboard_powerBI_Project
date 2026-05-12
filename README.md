@@ -621,23 +621,37 @@ This project strengthened expertise in:
 
 # 📷 Dashboard Screenshots
 
-## Executive Overview
+## Executive Sales Dashboard
 
-```text
-Add Screenshot Here
-```
+![Executive Sales Dashboard](images/Executive%20Sales%20Dashboard.png)
 
-## Product Performance
+## Data Model
 
-```text
-Add Screenshot Here
-```
+![Data Model](images/Data_Model.png)
 
-## Store & Inventory Dashboard
+## Business KPIs
 
-```text
-Add Screenshot Here
-```
+![Business KPIs](images/Business%20KPIs%20-%202026-05-11%20141738.png)
+
+## Product Performance Dashboard
+
+![Product and Product Category Performance](images/Product%20and%20Product%20Category%20Performance.png)
+
+## Store and Inventory Performance
+
+![Store and Inventory Performance](images/Store%20and%20Inventory%20Performance.png)
+
+## Product Detail Page
+
+![Product Detail](images/Product%20detail.png)
+
+## Page Navigator
+
+![Page Navigator](images/Page%20Navigetor.png)
+
+## Category Tooltip
+
+![Category Tooltip](images/Tooltip%20-%20Category.png)
 
 ---
 
